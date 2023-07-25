@@ -6,7 +6,7 @@ html{
 }
 #menu
 {
-  background-image: linear-gradient(to right, #7b4397 , #dc2430);
+  background-image: linear-gradient(to right, #c33764  , #1d2671);
 }
 
 .starter-template {
@@ -87,6 +87,7 @@ a.navbar-brand .fa-globe:hover
   opacity: 0.90;
   box-shadow: rgb(255, 253, 253) 0px 3px 8px;
 }
+
 
 .splash h1 {
   font-size: 40px;
@@ -174,7 +175,7 @@ h1.intro-text
 .splash .continue a:hover {
   background-color: rgba(255, 255, 255, .25);
 }
-#about,#portfolio,#contact
+#about,#portfolio
 {
   padding-top:4em!important;
 }
@@ -251,7 +252,7 @@ p.content-text { font-size: 25px; }
 }
 
 .portfolio-container-holder{
-	background: #eee;
+	background-image: linear-gradient(to right, #bdc3c7   , #2c3e50);
 	padding-bottom: 20px;
 }
 
@@ -280,7 +281,7 @@ p.content-text { font-size: 25px; }
 /* Contact */
 .contact-me-container{
 	padding:3%;
-background: rgb(13, 79, 136);
+  background-image: linear-gradient(to right, #7b4397 , #dc2430);
 }
 .fa-user,.fa-at,.fa-phone
 {
@@ -294,8 +295,15 @@ background: rgb(13, 79, 136);
 Footer
 ======================== */
 
+#contact {
+  border: #fff solid 1px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: rgb(255, 251, 251) 0px 3px 8px;
+}
+
 footer {
-  background-color: #2C3E50;
+  background-image: linear-gradient(to right, #7b4397 , #dc2430);
   color:  #fff;
   font-size: 1.5em;
   text-align: center;
