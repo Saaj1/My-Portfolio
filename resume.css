@@ -1,4 +1,4 @@
-/* styles.css */
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -55,6 +55,5 @@ section {
 }
 
 .skills li, .competencies li {
-  /* display: inline-block; */
   margin-right: 15px;
 }
