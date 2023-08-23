@@ -64,7 +64,7 @@ a.navbar-brand .fa-globe:hover
   max-width: 996px;
 }
 .splash {
-  background:url("https://pure.wallpapergk.com/download/laptop_keyboard_glow_dark-1600x900.jpg") no-repeat fixed center bottom;
+  background: url("images/code.jpg") no-repeat fixed center bottom;
 	background-size: cover;
 	color: #fff;
 }
