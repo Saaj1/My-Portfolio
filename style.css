@@ -64,7 +64,7 @@ a.navbar-brand .fa-globe:hover
   max-width: 996px;
 }
 .splash {
-  background: url("images/code.jpg") no-repeat fixed center bottom;
+  background:url("https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") no-repeat fixed center bottom;
 	background-size: cover;
 	color: #fff;
 }
